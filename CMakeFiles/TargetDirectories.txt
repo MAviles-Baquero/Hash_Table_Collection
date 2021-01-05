@@ -1,0 +1,4 @@
+/home/csuser/CPSC223/hw6-MAviles-Baquero/CMakeFiles/rebuild_cache.dir
+/home/csuser/CPSC223/hw6-MAviles-Baquero/CMakeFiles/edit_cache.dir
+/home/csuser/CPSC223/hw6-MAviles-Baquero/CMakeFiles/hw6test.dir
+/home/csuser/CPSC223/hw6-MAviles-Baquero/CMakeFiles/hw6perf.dir
